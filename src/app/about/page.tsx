@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { Target, Users, Award, TrendingUp, Globe, Shield } from 'lucide-react';
+import { Target, Users, TrendingUp, Globe, Shield } from 'lucide-react';
 import { useLanguage } from '@/contexts/language-context';
 
 export default function AboutPage() {

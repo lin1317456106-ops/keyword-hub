@@ -1,6 +1,6 @@
 'use client';
 
-import { Mail, MessageCircle, Clock, MapPin } from 'lucide-react';
+import { Mail, MessageCircle, Clock } from 'lucide-react';
 import { useLanguage } from '@/contexts/language-context';
 
 export default function ContactPage() {
